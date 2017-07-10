@@ -1,0 +1,23 @@
+#container{
+
+margin: 0 auto;
+width:500px;
+height:400px;
+border:2px solid black;
+overflow:hidden;
+
+animation:one 35s;
+position:relative;
+background-size:500px 400px;
+transtion:2s ease;
+transtion-delay:2s;
+
+}
+@keyframes one{
+0%{background-image:url("img1.jpg");}
+20%{background-image:url("img2.jpg");}
+40%{background-image:url("img3.jpg");}
+60%{background-image:url("img4.jpg");}
+80%{background-image:url("img5.jpg");}
+100%{background-image:url("img6.jpg");}
+}

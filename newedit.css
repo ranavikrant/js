@@ -1,0 +1,20 @@
+.div1{
+	float:left	
+}
+.div2{
+	float:right
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+	background-color:#F4F6F6  ;
+}
+tr: {
+    background-color: green;
+}
