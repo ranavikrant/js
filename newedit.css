@@ -1,8 +1,10 @@
 .div1{
-	float:left	
+	float:left	;
+	background-color:white;
 }
 .div2{
-	float:right
+	float:right;
+	background-color:white;
 }
 table {
     font-family: arial, sans-serif;
@@ -18,3 +20,8 @@ td, th {
 tr: {
     background-color: green;
 }
+.body1{
+	margin:0px 100px 0px 100px;
+	
+}
+html { background-color: #F8F9F9  ; }
